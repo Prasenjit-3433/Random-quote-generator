@@ -1,0 +1,2 @@
+1. https://heropatterns.com/
+2. Twitter API: https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent
